@@ -7,8 +7,8 @@ Hey Guys, I'm Justin, currently Robotic and Mechatronic Engineering Student in M
 - 👯 I'm looking forward to work on any projects like robot car or drone.
 - 💬 Feel free to ask me about Malaysia Uni Life
 - 📫 How to reach me:
-    Linkedin:www.linkedin.com/in/justin-ng-wei-quan-b6b1532a4
-    Instagram: https://www.instagram.com/jus.tin2005?igsh=MWRheXlzNmYyMHoycg%3D%3D&utm_source=qr
+-   Linkedin:www.linkedin.com/in/justin-ng-wei-quan-b6b1532a4
+-   Instagram: https://www.instagram.com/jus.tin2005?igsh=MWRheXlzNmYyMHoycg%3D%3D&utm_source=qr
 - 😄 Pronouns: He/him (I'm not a gay even I'm single pls.
   
 - ⚡ Fun fact:
