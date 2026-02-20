@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hey Guys, I'm Justin, a Robotic and Mechatronic Engineering Student in Monash University Malaysia.
+Hey Guys. Here's Justin, a Robotic and Mechatronic Engineering Student in Monash University Malaysia.
 
 - 🔭 I’m currently working on my self-developed project: ARCHNE.
 - 🌱 I’m currently learning about programming and eletric power system.
