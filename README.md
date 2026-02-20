@@ -1,17 +1,17 @@
 ## Hi there 👋
 
-<!--
-**jng5616-cmd/jng5616-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 Hey Guys, I'm Justin, currently Robotic and Mechatronic Engineering Student in Monash University Malaysia.
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my self-developed project: ARCHNE.
+- 🌱 I’m currently learning about programming and eletric power system.
+- 👯 I'm looking forward to work on any projects like robot car or drone.
+- 💬 Feel free to ask me about Malaysia Uni Life
+- 📫 How to reach me:
+    Linkedin:www.linkedin.com/in/justin-ng-wei-quan-b6b1532a4
+    Instagram: https://www.instagram.com/jus.tin2005?igsh=MWRheXlzNmYyMHoycg%3D%3D&utm_source=qr
+- 😄 Pronouns: He/him (I'm not a gay even I'm single pls.
+  
+- ⚡ Fun fact:
+-   1. I like sleep and eat.
+    2. I have three dogs.
+
